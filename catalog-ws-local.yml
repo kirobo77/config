@@ -1,4 +1,4 @@
 com:
   test:
-    profile: local4
-    region: catalog-ws
+    profile: local5
+    region: catalog-ws2
